@@ -1,0 +1,23 @@
+{
+  "fullName": "Jane Wanjiku",
+  "email": "jane.wanjiku@example.com",
+  "phone": "+254700123456",
+  "nationalId": "28765432",
+  "dateOfBirth": "1998-03-10",
+  "location": "Nairobi, Kenya",
+  "bio": "Creative software developer passionate about building impactful products.",
+  "skills": ["React Native", "TypeScript", "Node.js", "UI/UX", "MongoDB"],
+  "experience": "2 years",
+  "education": "BSc. Computer Science - JKUAT (2017-2021)",
+  "languages": ["English", "Swahili"],
+  "preferences": {
+    "jobTypes": ["full-time", "contract"],
+    "salaryRange": { "min": 60000, "max": 120000 },
+    "locations": ["Nairobi", "Remote"],
+    "remoteWork": true,
+    "industries": ["Technology", "Fintech"]
+  }
+}
+
+
+

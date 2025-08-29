@@ -1,0 +1,45 @@
+{
+  "domain": "janewanjiku.kazike.ke",
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Farmers Marketplace App",
+      "description": "Mobile marketplace connecting local farmers to buyers with M-Pesa payments.",
+      "url": "https://github.com/jane/farmers-app",
+      "date": "2024-05-02",
+      "skills": ["React Native", "TypeScript", "Firebase"]
+    }
+  ],
+  "certificates": [
+    {
+      "id": "c1",
+      "title": "Google UX Design",
+      "issuer": "Coursera",
+      "date": "2023-09-12",
+      "url": "https://coursera.org/verify/xxxx"
+    }
+  ],
+  "accreditations": [
+    {
+      "id": "a1",
+      "title": "AWS Cloud Practitioner",
+      "issuer": "Amazon",
+      "date": "2023-11-20"
+    }
+  ],
+  "sideHustles": [
+    {
+      "id": "s1",
+      "title": "Freelance UI Design",
+      "description": "Landing pages and mobile UI kits for startups",
+      "date": "2024-02-15"
+    }
+  ],
+  "cv": {
+    "fileUrl": "",
+    "summary": "Product-focused developer with a strong design sense and shipping mindset."
+  }
+}
+
+
+
